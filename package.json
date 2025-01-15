@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@stripe/stripe-js": "^5.5.0",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1",
+    "stripe": "^17.5.0"
+  }
+}
