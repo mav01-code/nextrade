@@ -14,7 +14,7 @@ NexTRADE is a digital platform aimed at helping Indian SMBs (Small and Medium Bu
 
 - **Frontend**: React.js
 - **Backend**: Express.js, Node.js
-- **Database**: PostgreSQL
+- **Database**: MySQL
 - **Real-time Communication**: WebSocket
 - **Video Conferencing**: WebRTC
 - **Cloud Provider**: AWS
